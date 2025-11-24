@@ -34,7 +34,8 @@ Star UML
 <img width="1051" height="750" alt="image" src="https://github.com/user-attachments/assets/e4905371-d806-47ff-a9b3-3904b83f0be3" />
 
 ### Package Diagram:
-<img width="1044" height="739" alt="image" src="https://github.com/user-attachments/assets/613409a0-4506-4c47-94bc-c2408f893f19" />
+<img width="1042" height="778" alt="image" src="https://github.com/user-attachments/assets/72ac6d53-5617-4079-b10a-b18862c557ad" />
+
 
 ### Sequence Diagram:
 <img width="1071" height="737" alt="image" src="https://github.com/user-attachments/assets/ac7522ba-ca47-437c-92d0-d7d33ce6d6e8" />
